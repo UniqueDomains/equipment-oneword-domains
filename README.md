@@ -1,22 +1,22 @@
-# Available .EQUIPMENT One-Word Domains (9,419)
+# Available .EQUIPMENT One-Word Domains (9,416)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C416%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C419%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C417%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C416%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .equipment one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .equipment one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,416-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,419 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,416 rows · **Live catalog:** 9,419 domains
+**Public extract:** 9,417 rows · **Live catalog:** 9,416 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/equipment`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .EQUIPMENT one-word do
 
 ### Files
 
-- `equipment.csv` — public CSV extract (9,416 rows)
-- `equipment.json` — public JSON extract (9,416 rows)
+- `equipment.csv` — public CSV extract (9,417 rows)
+- `equipment.json` — public JSON extract (9,417 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -70,20 +70,20 @@ print(df.head())
 | true.equipment      | available | $19.99    | $41.99        | 86             | 52     | 4      | name.com                                                  |
 | home.equipment      | resell    | —         | —             | 100            | 62     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | athletics.equipment | premium   | $85.80    | $85.80        | 69             | 52     | 9      | namecheap                                                 |
-| genius.equipment    | available | $19.99    | $41.99        | 98             | 47     | 6      | name.com                                                  |
-| cloud.equipment     | resell    | —         | —             | 70             | 59     | 5      | Sav.com, LLC                                              |
-| one.equipment       | premium   | $500      | $500          | 132            | 50     | 3      | name.com                                                  |
 | sun.equipment       | available | $19.99    | —             | 78             | 47     | 3      | name.com                                                  |
-| search.equipment    | resell    | —         | —             | 70             | 57     | 6      | Spaceship, Inc.                                           |
-| security.equipment  | premium   | $260      | $260          | 70             | 49     | 8      | namecheap                                                 |
-| wizard.equipment    | available | $19.99    | $41.99        | 118            | 46     | 6      | name.com                                                  |
-| smart.equipment     | resell    | —         | —             | 74             | 56     | 5      | Sav.com, LLC                                              |
-| travel.equipment    | premium   | $520      | $520          | 115            | 48     | 6      | namecheap                                                 |
+| industry.equipment  | resell    | —         | —             | 72             | 61     | 8      | united-domains GmbH                                       |
+| one.equipment       | premium   | $500      | $500          | 132            | 50     | 3      | name.com                                                  |
 | snap.equipment      | available | $19.99    | $41.99        | 90             | 46     | 4      | name.com                                                  |
-| business.equipment  | resell    | —         | —             | 100            | 53     | 8      | Spaceship, Inc.                                           |
-| all.equipment       | premium   | $500      | $500          | 88             | 48     | 3      | name.com                                                  |
+| cloud.equipment     | resell    | —         | —             | 70             | 59     | 5      | Sav.com, LLC                                              |
+| security.equipment  | premium   | $260      | $260          | 70             | 49     | 8      | namecheap                                                 |
+| genius.equipment    | available | $19.99    | $41.99        | 98             | 45     | 6      | name.com                                                  |
+| search.equipment    | resell    | —         | —             | 70             | 57     | 6      | Spaceship, Inc.                                           |
+| travel.equipment    | premium   | $520      | $520          | 115            | 48     | 6      | namecheap                                                 |
 | nice.equipment      | available | $19.99    | $41.99        | 86             | 44     | 4      | name.com                                                  |
-| sky.equipment       | resell    | —         | —             | 80             | 53     | 3      | Dynadot Inc                                               |
+| smart.equipment     | resell    | —         | —             | 74             | 56     | 5      | Sav.com, LLC                                              |
+| all.equipment       | premium   | $500      | $500          | 88             | 48     | 3      | name.com                                                  |
+| wizard.equipment    | available | $19.99    | $41.99        | 118            | 43     | 6      | name.com                                                  |
+| business.equipment  | resell    | —         | —             | 100            | 53     | 8      | Spaceship, Inc.                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,416-row public sample | 9,419 live domains                               |
+| 9,417-row public sample | 9,416 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EQUIPMENT One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EQUIPMENT One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
