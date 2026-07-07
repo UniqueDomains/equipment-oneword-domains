@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .equipment one-word domains
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,392 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,392 domains · **Median ask:** $23.44 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,392 domains · **Median ask:** $23.34 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/equipment`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/equipment`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .EQUIPMENT one-word do
 
 ### Files
 
-- `equipment.csv` — public CSV extract (1,000 rows)
-- `equipment.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `equipment.csv`, public CSV extract (1,000 rows)
+- `equipment.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| Ryan.equipment       | available | $32.98    | —             | 60             | 44     | 4      | namecheap        |
-| hotels.equipment     | resell    | —         | —             | 64             | 82     | 6      | Key-Systems, LLC |
-| events.equipment     | premium   | $123.75   | —             | 68             | 37     | 6      | name.com         |
-| coins.equipment      | available | $19.99    | —             | 56             | 41     | 5      | name.com         |
-| appraisals.equipment | premium   | $242      | $242          | 56             | 10     | 10     | namesilo         |
-| shortcuts.equipment  | available | $19.99    | —             | 48             | 41     | 10     | name.com         |
-| lets.equipment       | available | $19.99    | —             | 77             | 39     | 4      | name.com         |
-| prompts.equipment    | available | $19.99    | —             | 54             | 39     | 7      | name.com         |
-| justin.equipment     | available | $19.99    | —             | 58             | 38     | 7      | name.com         |
-| tokens.equipment     | available | $19.99    | —             | 51             | 36     | 6      | name.com         |
-| aliens.equipment     | available | $19.99    | —             | 56             | 35     | 6      | name.com         |
-| payments.equipment   | available | $19.99    | —             | 58             | 33     | 8      | name.com         |
-| William.equipment    | available | $32.98    | —             | 74             | 31     | 7      | namecheap        |
-| letsgo.equipment     | available | $19.99    | —             | 57             | 31     | 7      | name.com         |
-| solutions.equipment  | available | $19.99    | —             | 56             | 31     | 9      | name.com         |
-| rewards.equipment    | available | $19.99    | —             | 62             | 30     | 7      | name.com         |
-| gods.equipment       | available | $19.99    | —             | 72             | 29     | 4      | name.com         |
-| Jim.equipment        | available | $32.98    | —             | 78             | 28     | 3      | namecheap        |
-| brands.equipment     | available | $19.99    | —             | 62             | 28     | 6      | name.com         |
-| photos.equipment     | available | $19.99    | —             | 54             | 28     | 6      | name.com         |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| ala.equipment    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| ada.equipment    | resell    | —         | —             | medium         | medium | 3      | GoDaddy.com, LLC                                          |
+| job.equipment    | premium   | $123.75   | —             | high           | low    | 3      | name.com                                                  |
+| ash.equipment    | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
+| cheap.equipment  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                                          |
+| usa.equipment    | premium   | $242      | $242          | high           | medium | 3      | namesilo                                                  |
+| bar.equipment    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| aerial.equipment | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC                                          |
+| web.equipment    | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                                  |
+| BJP.equipment    | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
+| church.equipment | resell    | —         | —             | high           | low    | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
+| boat.equipment   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                                  |
+| bro.equipment    | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
+| young.equipment  | premium   | $242      | $242          | high           | low    | 5      | namesilo                                                  |
+| coy.equipment    | available | $19.99    | $41.99        | medium         | low    | 3      | name.com                                                  |
+| camera.equipment | premium   | $500      | —             | high           | low    | 6      | name.com                                                  |
+| err.equipment    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| moscow.equipment | premium   | $78.54    | $78.54        | high           | low    | 6      | namesilo                                                  |
+| fig.equipment    | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
+| police.equipment | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is defined by one thing: every name ends in .equipment. That makes the extension the main commercial signal, so the strongest picks are words that pair naturally with equipment buying, rental, maintenance, training, or supply. In this selection, examples like language.equipment or job.equipment are broad, while names like bruise.equipment or disgust.equipment are harder to match to a credible use case. The median ask is 23.44, but price alone is not enough. When comparing these domains, weigh semantic fit, memorability, renewal burden, and whether the word creates clear business meaning inside a .equipment ending.
+This selection covers one-word domain names under the .equipment extension, spanning everyday nouns, compound terms, and niche vocabulary. With a median asking price near $23, the list gives founders an affordable shortlist for early-stage branding and gives investors a low-cost entry point to test demand across a broad TLD. Domains here span topics from tools and gear to food and lifestyle terms, reflecting the wide range of registrants using .equipment beyond its literal meaning.
 
-- Prioritize words that fit equipment use cases immediately
-- Broad terms can be flexible but may feel less precise
-- Check renewal costs before treating a low ask as a bargain
-- Avoid words that weaken trust or commercial relevance
+- 12,392 one-word .equipment domains in this list
+- Median asking price near $23 across the set
+- Mix of everyday nouns and niche compound terms
+- Affordable entry point for testing .equipment demand
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EQUIPMENT One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EQUIPMENT One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
