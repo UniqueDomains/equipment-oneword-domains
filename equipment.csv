@@ -524,7 +524,7 @@ b82737e5-8508-4f04-9298-2b45b5e11175,christian.equipment,available,19.99,,high,m
 e8c6f997-e576-4d8e-9209-854ed7aa5fc1,loss.equipment,available,19.99,,medium,low,4,name.com,,
 daed6c3a-f103-487a-b0f4-d3c25a66acec,canted.equipment,available,19.99,41.99,low,low,6,name.com,,
 f55b7a4f-1266-4feb-9309-e7de6bf7e6e4,foul.equipment,available,19.99,41.99,low,low,4,name.com,,
-96fdd776-15dd-4b76-a82d-e91092c5750f,junction.equipment,available,19.99,,medium,low,8,name.com,,
+96fdd776-15dd-4b76-a82d-e91092c5750f,junction.equipment,available,19.99,41.99,low,low,8,name.com,,
 7f9921a8-93fc-4c48-afa8-6e64c189a81c,traveled.equipment,available,19.99,,medium,low,8,name.com,,
 ae5e2168-f344-4828-9794-66fbe55518a2,havethetime.equipment,available,19.99,,high,low,13,name.com,,
 b5ccae3e-fef4-4f4b-86b8-73327086a6bd,midOctober.equipment,available,19.99,,high,low,11,name.com,,
