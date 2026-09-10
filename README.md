@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .equipment one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,893 domains · **Median ask:** $22.34 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-09
+**Last updated:** 2026-09-10
 **Canonical page:** `https://unique.domains/domains/tld/equipment`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| own.equipment    | available | —         | —             | high           | low    | 3      | —                                                         |
+| count.equipment  | available | $19.99    | —             | high           | low    | 5      | name.com                                                  |
 | ain.equipment    | available | $19.99    | $41.99        | low            | low    | 3      | name.com                                                  |
 | ada.equipment    | resell    | —         | —             | medium         | medium | 3      | GoDaddy.com, LLC                                          |
 | job.equipment    | premium   | $123.75   | —             | high           | low    | 3      | name.com                                                  |
@@ -82,8 +84,6 @@ print(df.head())
 | camera.equipment | premium   | $500      | —             | high           | low    | 6      | name.com                                                  |
 | coy.equipment    | available | $19.99    | $41.99        | medium         | low    | 3      | name.com                                                  |
 | moscow.equipment | premium   | $78.54    | $78.54        | high           | low    | 6      | namesilo                                                  |
-| err.equipment    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
-| police.equipment | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EQUIPMENT One-Word Domains*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EQUIPMENT One-Word Domains*. Version 2026-09-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
