@@ -199,7 +199,7 @@ b7904af7-f2bc-4a9e-aeb3-4f5212cc2302,rowingboat.equipment,available,19.99,,high,
 c58bfbc9-ee03-47c0-b64b-dd4643691a18,associate.equipment,available,19.99,41.99,low,low,9,name.com,,
 5063f37f-8645-4db9-a8de-687e72b62234,shush.equipment,available,19.99,,medium,low,5,name.com,,
 d7756f89-5a31-4273-9e30-f63a50062cae,asunder.equipment,available,19.99,41.99,low,low,7,name.com,,
-fff64ceb-48f8-4a30-aa90-c17e2ae7b94c,procedure.equipment,available,19.99,,medium,low,9,name.com,,
+fff64ceb-48f8-4a30-aa90-c17e2ae7b94c,procedure.equipment,available,19.99,41.99,medium,low,9,name.com,,
 8a1caab9-fc5c-4941-bb5f-cbfe245ea455,aerial.equipment,resell,,,medium,low,6,"NameSilo, LLC",11/05/2025 16:17,11/05/2027 16:17
 07ccdc30-134c-49f2-ab99-0817e7bb96b4,masses.equipment,available,19.99,,medium,low,6,name.com,,
 ea5573df-fd85-4406-87d1-5b66875661ba,fellowcitizen.equipment,available,19.99,,medium,low,14,name.com,,
