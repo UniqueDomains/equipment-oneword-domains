@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .equipment one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,222 domains · **Median ask:** $24.19 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/equipment`
 **Best for:** founders, investors, studios
 
@@ -72,11 +72,11 @@ print(df.head())
 | usa.equipment    | premium   | $242      | $242          | high           | medium | 3      | namesilo                                                  |
 | ash.equipment    | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
 | aerial.equipment | resell    | —         | —             | medium         | low    | 6      | NameSilo, LLC                                             |
-| web.equipment    | premium   | $78.54    | $78.54        | medium         | medium | 3      | namesilo                                                  |
+| web.equipment    | premium   | $85.80    | $85.80        | low            | low    | 3      | namecheap                                                 |
 | bar.equipment    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
 | church.equipment | resell    | —         | —             | high           | low    | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
 | boat.equipment   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                                  |
-| BJP.equipment    | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
+| bjp.equipment    | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
 | young.equipment  | premium   | $242      | $242          | high           | low    | 5      | namesilo                                                  |
 | bro.equipment    | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
 | camera.equipment | premium   | $500      | —             | high           | low    | 6      | name.com                                                  |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EQUIPMENT One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EQUIPMENT One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
