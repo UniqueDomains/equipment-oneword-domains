@@ -1,10 +1,10 @@
-# Available .EQUIPMENT One-Word Domains (23,683)
+# Available .EQUIPMENT One-Word Domains (24,186)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C683%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C186%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .equipment one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,683 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,186 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,683 domains · **Median ask:** $27.44 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 24,186 domains · **Median ask:** $27.36 · **High-demand under $2,500:** 6
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/equipment`
@@ -67,23 +67,23 @@ print(df.head())
 | abm.equipment       | available | $29.98    | $32.98        | high           | low    | 3      | namecheap   |
 | controls.equipment  | resell    | —         | —             | medium         | low    | 8      | —           |
 | the.equipment       | premium   | $242      | $242          | high           | medium | 3      | namesilo    |
-| aft.equipment       | available | $19.99    | $41.99        | high           | low    | 3      | name.com    |
+| asa.equipment       | available | $28.99    | $28.99        | high           | low    | 3      | namesilo    |
 | financial.equipment | resell    | —         | —             | high           | low    | 9      | Dynadot Inc |
 | post.equipment      | premium   | $500      | —             | high           | medium | 4      | name.com    |
-| asa.equipment       | available | $28.99    | $28.99        | high           | low    | 3      | namesilo    |
-| smiths.equipment    | premium   | $250      | $250          | medium         | low    | 6      | name.com    |
 | atp.equipment       | available | $19.99    | —             | high           | low    | 3      | name.com    |
-| system.equipment    | premium   | $512      | $512          | high           | medium | 6      | namesilo    |
+| smiths.equipment    | premium   | $250      | $250          | medium         | low    | 6      | name.com    |
 | baa.equipment       | available | $19.99    | $41.99        | high           | low    | 3      | name.com    |
-| removal.equipment   | premium   | $78.54    | $78.54        | high           | low    | 7      | namesilo    |
+| system.equipment    | premium   | $414.20   | $414.20       | high           | medium | 6      | spaceship   |
 | cao.equipment       | available | $28.99    | $28.99        | high           | low    | 3      | namesilo    |
-| canberra.equipment  | premium   | $118.80   | $118.80       | high           | low    | 8      | namesilo    |
+| removal.equipment   | premium   | $78.54    | $78.54        | high           | low    | 7      | namesilo    |
 | con.equipment       | available | $19.99    | —             | high           | low    | 3      | name.com    |
+| canberra.equipment  | premium   | $118.80   | $118.80       | high           | low    | 8      | namesilo    |
 | cpi.equipment       | available | $28.99    | $28.99        | high           | low    | 3      | namesilo    |
 | fcc.equipment       | available | $28.99    | $28.99        | high           | low    | 3      | namesilo    |
 | fly.equipment       | available | $29.98    | $32.98        | high           | medium | 3      | namecheap   |
 | lcd.equipment       | available | $19.99    | —             | high           | low    | 3      | name.com    |
 | ldl.equipment       | available | $28.99    | $28.99        | high           | low    | 3      | namesilo    |
+| lxv.equipment       | available | $19.99    | $41.99        | medium         | low    | 3      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,683 live domains                        |
+| 1,000-row public sample | 24,186 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 5 high-demand names under $2,500           |
+| Basic exported fields   | 6 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 

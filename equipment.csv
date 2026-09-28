@@ -15,9 +15,11 @@ ff5b196d-0d25-48e0-a618-04d443ecf0ad,fetching.equipment,available,19.99,41.99,hi
 b431acd9-bdef-411b-889f-b428bd17478e,snowdrop.equipment,available,28.99,28.99,high,low,8,namesilo,,,19/09/2026 05:27
 1a213db0-9097-4455-976a-cac7247805b1,agonist.equipment,available,29.98,32.98,medium,low,7,namecheap,,,17/09/2026 18:56
 856ff192-c48a-45b7-b50b-2032fa753f56,deserving.equipment,available,19.99,41.99,high,low,9,name.com,,,14/08/2026 03:29
+7ad9c731-6f05-4bec-9959-dbdd7923de74,sql.equipment,available,10.92,23.76,high,low,3,dynadot,,,28/09/2026 04:28
 420cf811-20ee-4cf0-8e35-da933dfe8a89,clearing.equipment,available,28.99,28.99,high,low,8,namesilo,,,24/09/2026 15:28
 47eeafb3-afff-468c-beaf-83d5b09b4f21,fabric.equipment,available,28.99,28.99,high,low,6,namesilo,,,25/09/2026 05:01
 0b0f731a-5016-45a0-9f2a-79cff16ce752,bistre.equipment,available,28.99,28.99,medium,low,6,namesilo,,,23/09/2026 22:12
+7f21d088-fae4-435e-90bc-1018b090b63c,desperately.equipment,available,28.99,28.99,medium,low,11,namesilo,,,28/09/2026 07:05
 f57790fd-5a2e-49eb-bba1-0aac2fa9389c,revolt.equipment,available,19.99,,high,low,6,name.com,,,
 8c104dbd-b7d5-4aa8-902d-987f4d5f8f34,changeling.equipment,available,19.99,41.99,medium,low,10,name.com,,,21/08/2026 20:30
 5d2016a4-f6c8-48a2-8237-d64b55961ab0,insidious.equipment,available,19.99,41.99,medium,low,9,name.com,,,22/08/2026 07:05
@@ -174,6 +176,7 @@ b266a57b-c482-4318-8748-ca8216a7f774,acquire.equipment,available,28.99,28.99,hig
 52b4257c-75a1-4a78-899f-8d278a809997,eolic.equipment,available,28.99,28.99,low,low,5,namesilo,,,17/09/2026 12:36
 c32e00f4-daa6-44e3-8374-56b1576494e9,acetabular.equipment,available,19.99,41.99,medium,low,10,name.com,,,
 1746371d-5d33-4b15-b2ec-631694aa26ce,anthurium.equipment,available,29.98,32.98,medium,low,9,namecheap,,,19/09/2026 13:58
+320b3782-2b67-43d1-aa6a-f4828b74e020,plantation.equipment,available,22.97,22.97,high,low,10,spaceship,,,28/09/2026 06:31
 7aaf783e-d3ef-404d-be1c-75e0d0737161,watching.equipment,available,19.99,,high,low,8,name.com,,,
 332f9a91-e35b-4593-9726-1a093d423e04,blockade.equipment,available,19.99,,medium,low,8,name.com,,,
 56ed3293-33b6-42e8-8a30-e545c07caf70,amebous.equipment,available,19.99,41.99,medium,low,7,name.com,,,
@@ -189,6 +192,7 @@ bfb64c47-0a98-48bd-b576-ed74c53428f5,hess.equipment,available,28.99,28.99,high,l
 d6bb1334-8fee-458a-91f4-d590044d1ae8,cocks.equipment,available,28.99,28.99,medium,low,5,namesilo,,,18/09/2026 23:39
 d9e77426-de50-46b8-a3b2-7a26f2350c93,idyll.equipment,available,28.99,28.99,high,low,5,namesilo,,,08/09/2026 10:11
 89035484-82c8-491b-9d9b-8f732631527a,biochemist.equipment,available,28.99,28.99,high,low,10,namesilo,,,23/09/2026 17:44
+9050208f-d5b3-4e21-ae3d-e4012709e397,warner.equipment,available,28.99,28.99,high,low,6,namesilo,,,28/09/2026 05:27
 13435bf0-e25b-4beb-85b9-1da9edecafd9,blown.equipment,available,19.99,41.99,medium,low,5,name.com,,,10/08/2026 15:36
 b55e9e6b-2dea-46af-b2e9-59e27ef7a84a,hatch.equipment,available,29.98,32.98,high,low,5,namecheap,,,27/09/2026 03:37
 4819f17e-18ce-4013-90ba-291cf16d52ea,oyster.equipment,available,19.99,,high,low,6,name.com,,,
@@ -204,6 +208,7 @@ ee850eb4-c27a-4607-9a46-2b88f8670b54,hitler.equipment,available,28.99,28.99,high
 ea014b80-b5fe-4fc9-b66e-e2816c88d932,attestor.equipment,available,28.99,28.99,medium,low,8,namesilo,,,21/09/2026 01:38
 00866b91-e492-4e5b-a4ea-81411928f5a8,civilization.equipment,available,28.99,28.99,high,low,12,namesilo,,,27/09/2026 07:12
 8a306c89-c59f-4d99-bfc8-ca5b6b1a4571,acentric.equipment,available,19.99,41.99,medium,low,8,name.com,,,
+46c7013b-d904-4858-90ec-a02be2b17baa,voyage.equipment,available,28.99,28.99,high,low,6,namesilo,,,28/09/2026 02:51
 dd833afa-6908-48a7-8d38-203ac0ac27ea,afrikaner.equipment,available,19.99,41.99,medium,low,9,name.com,,,
 4ef4da59-9765-4d8c-9a26-5ea6f16ff6d5,class.equipment,available,19.99,,high,low,5,name.com,,,
 159aa574-4949-463e-b0ee-b6abff00397c,aphonic.equipment,available,19.99,41.99,medium,low,7,name.com,,,05/08/2026 23:17
@@ -254,6 +259,7 @@ f9e5de43-d20d-4f4d-a3fa-ce0a5969d840,eichmann.equipment,available,28.99,28.99,me
 10dc8c85-01fe-4f63-9010-75155573b47d,jealous.equipment,available,28.99,28.99,high,low,7,namesilo,,,24/09/2026 01:04
 4a8b41f9-cca1-4ef1-853b-beed12fff51b,niner.equipment,available,19.99,41.99,medium,low,5,name.com,,,
 ee74920c-5baa-4da7-a42b-549983be546e,aleppo.equipment,available,28.99,28.99,high,low,6,namesilo,,,18/09/2026 05:13
+623c25c8-240c-4f7e-9c21-0cf5a6605f57,rai.equipment,available,22.2,22.2,high,low,3,cloudflare,,,28/09/2026 04:12
 f4840bc5-96ea-48a0-a710-3d2f8aa31a9e,tersely.equipment,available,28.99,28.99,medium,low,7,namesilo,,,16/09/2026 08:13
 d767712f-359d-40f2-99fc-1c33ad0643b6,side.equipment,available,22.2,22.2,high,low,4,cloudflare,,,27/09/2026 21:50
 5f89f91f-4dea-44b8-bcc1-931e5cac7375,wristband.equipment,available,28.99,28.99,high,low,9,namesilo,,,24/09/2026 07:49
@@ -325,6 +331,7 @@ e87ac59b-f17e-4b17-b02b-016ff20570cd,parishes.equipment,available,28.99,28.99,me
 b36ed6b4-1bf4-4ce5-9830-f9e563f7842d,broadway.equipment,available,28.99,28.99,high,low,8,namesilo,,,24/09/2026 10:38
 cc65a17d-c4b5-4d30-86f0-b13b8ebd99d6,klaus.equipment,available,19.99,41.99,medium,low,5,name.com,,,27/09/2026 01:38
 14d31ff6-033b-4e7a-b977-daa0c38ab068,fitting.equipment,available,19.99,41.99,high,low,7,name.com,,,18/08/2026 05:50
+47c0f560-5eb5-4b4a-ba9e-447673e5743e,courts.equipment,available,22.97,22.97,high,low,6,spaceship,,,28/09/2026 03:42
 63947e91-0a2b-40ac-bf24-0105b6d1a2a5,choral.equipment,available,19.99,41.99,high,low,6,name.com,,,12/08/2026 07:03
 075ae3b0-8b16-444f-8db6-14dbe5988741,jointed.equipment,available,19.99,41.99,medium,low,7,name.com,,,22/08/2026 13:44
 1c74882e-e566-4d17-9959-3e439388cf6c,motherly.equipment,available,19.99,41.99,high,low,8,name.com,,,25/08/2026 07:06
@@ -389,6 +396,7 @@ d2b82a66-84aa-4ae1-bc40-6eee28f1008f,clearance.equipment,available,28.99,28.99,h
 86fd81ee-9bab-478d-a421-c08d56b97222,northampton.equipment,available,28.99,28.99,medium,low,11,namesilo,,,25/09/2026 14:57
 9593d383-3a84-4289-86a1-4fe8633b3d4d,dicky.equipment,available,19.99,41.99,medium,low,5,name.com,,,14/08/2026 06:27
 e60ca581-2f94-475f-b15c-4e0fa9499fab,downcast.equipment,available,19.99,41.99,medium,low,8,name.com,,,14/08/2026 17:33
+8c8b6d62-a7b7-4c59-ae02-ddd7d3954c78,roberta.equipment,available,28.99,28.99,high,low,7,namesilo,,,28/09/2026 03:52
 e481da30-643e-4d45-9fa8-4672f6eacdbb,presence.equipment,available,28.99,28.99,high,low,8,namesilo,,,24/09/2026 16:52
 e70b1936-a160-4d86-bf68-0d6a57223a84,robustly.equipment,available,28.99,28.99,high,low,8,namesilo,,,15/09/2026 23:57
 9e5a5650-89e1-472b-aadb-790aa39a991e,koranic.equipment,available,19.99,41.99,medium,low,7,name.com,,,22/08/2026 16:59
@@ -401,6 +409,8 @@ ac6fad12-2691-4685-8ba4-bf503ffac970,respectively.equipment,available,19.99,,med
 c5dfdc78-198a-49b1-864f-c91e9d6b82e5,abm.equipment,available,29.98,32.98,high,low,3,namecheap,,,16/09/2026 16:15
 00330e78-6bba-4e21-879a-9d3acced613a,scrapper.equipment,available,19.99,41.99,medium,low,8,name.com,,,09/08/2026 13:35
 0a048733-c11a-4405-bce0-9f8bfcf7128a,ray.equipment,available,29.98,32.98,high,low,3,namecheap,,,22/09/2026 19:55
+4e34d499-f0bf-442d-8714-4690902af752,congressman.equipment,available,28.99,28.99,high,low,11,namesilo,,,28/09/2026 04:59
+92a4fe18-d29d-4693-acac-4200480b2325,shepherd.equipment,available,10.92,23.76,high,low,8,dynadot,,,28/09/2026 03:05
 f74d8122-a9b0-464b-92c9-639c4c8baab1,craniate.equipment,available,28.99,28.99,medium,low,8,namesilo,,,13/09/2026 04:37
 c9576b5b-ab5e-4ba5-b9ec-4179d97c2c35,naughty.equipment,available,19.99,41.99,high,low,7,name.com,,,18/08/2026 20:00
 3388bf02-6c56-4cac-9508-b43d6296d9ee,lineup.equipment,available,28.99,28.99,high,low,6,namesilo,,,22/09/2026 14:38
@@ -486,6 +496,7 @@ d65e667f-3c9a-4d6f-9137-dc8586ff02e0,queer.equipment,available,19.99,41.99,high,
 7681045a-3f91-433d-8dd0-44681abde9f2,woolen.equipment,available,28.99,28.99,medium,low,6,namesilo,,,13/09/2026 13:13
 329d2c61-d3d7-4e97-908b-83f2f922de9c,holotype.equipment,available,28.99,28.99,high,low,8,namesilo,,,25/09/2026 23:08
 0ceb536f-660f-4ea9-93fa-004697301527,credibly.equipment,available,28.99,28.99,medium,low,8,namesilo,,,14/09/2026 09:26
+7cdbc7f3-661e-4d11-b803-a33945666bfd,accidentally.equipment,available,28.99,28.99,medium,low,12,namesilo,,,28/09/2026 03:20
 7f19beda-c5f9-4381-ba62-58e3144d6359,blackish.equipment,available,19.99,41.99,medium,low,8,name.com,,,10/08/2026 12:03
 21534031-e33f-47d8-b5bb-bb91ded9165c,individual.equipment,available,28.99,28.99,high,low,10,namesilo,,,23/09/2026 13:06
 9e4756a4-6b2d-4e80-b083-1f46a6db3105,smiths.equipment,premium,250,250,medium,low,6,name.com,,,19/09/2026 22:24
@@ -503,6 +514,7 @@ c35a26bf-f6ca-47d2-bb53-888e75325888,outcome.equipment,available,19.99,,high,low
 e37c9e96-538c-4f82-a264-c57f259ccd28,slovakian.equipment,available,28.99,28.99,medium,low,9,namesilo,,,10/09/2026 11:16
 eef36f6e-60d3-4459-a6e4-189b1c82f86b,paintings.equipment,available,28.99,28.99,high,low,9,namesilo,,,27/09/2026 03:04
 a007e67f-f212-48c7-abf1-6a6f613fc373,themselves.equipment,available,28.99,28.99,medium,low,10,namesilo,,,25/09/2026 16:52
+87bd91a8-bd16-4485-9689-7dbd7fd2df8e,vivian.equipment,available,28.99,28.99,high,low,6,namesilo,,,28/09/2026 03:58
 4b1567b9-858a-4988-b27b-e66d9f562659,batch.equipment,available,19.99,41.99,high,low,5,name.com,,,25/08/2026 00:19
 3507b2fa-1a30-40a1-a939-662c6a29d111,aneurin.equipment,available,28.99,28.99,medium,low,7,namesilo,,,19/09/2026 05:40
 e0436218-541d-4fd8-a4df-6c8087630b7a,belongs.equipment,available,29.98,32.98,medium,low,7,namecheap,,,25/09/2026 20:38
@@ -531,7 +543,7 @@ f69cb0a8-f237-45d7-971e-29b8e2f56c98,cassie.equipment,available,29.98,32.98,high
 549e300e-ccf7-4c5f-8bdd-84ed8e70a287,rightfully.equipment,available,28.99,28.99,medium,low,10,namesilo,,,15/09/2026 23:44
 6f64865b-8283-41c6-a2a7-66299429a186,impossible.equipment,available,28.99,28.99,high,medium,10,namesilo,,,25/09/2026 07:55
 9b296b89-2c1e-46e3-833c-e9fabbc68bee,godzilla.equipment,available,,,high,medium,8,,,,
-b3dd0a4e-cfe5-467c-af54-30acd123fa9d,system.equipment,premium,512,512,high,medium,6,namesilo,,,23/09/2026 06:54
+b3dd0a4e-cfe5-467c-af54-30acd123fa9d,system.equipment,premium,414.2,414.2,high,medium,6,spaceship,,,28/09/2026 04:06
 4353e921-7efc-48c2-bbc9-431f28de673e,fly.equipment,available,29.98,32.98,high,medium,3,namecheap,,,24/09/2026 20:39
 f569c070-3882-4299-8627-81af7c5ac84b,futurist.equipment,available,19.99,41.99,high,low,8,name.com,,,18/08/2026 19:19
 4f27d399-c869-49d6-b098-25c6b4245e50,brush.equipment,available,19.99,,high,low,5,name.com,,,
@@ -588,6 +600,7 @@ dc13ab92-12ec-491a-848b-f6c89b108946,hide.equipment,available,28.99,28.99,high,l
 88a80e0f-39f5-4989-ba56-ca1e04d57e2e,sharing.equipment,available,28.99,28.99,high,low,7,namesilo,,,27/09/2026 20:29
 494318a6-9270-47df-bf29-8c9a9232a24d,abduction.equipment,available,28.99,28.99,medium,low,9,namesilo,,,16/09/2026 14:51
 d11feabe-f3c9-42c3-b8c2-78c1a718f62d,unguided.equipment,available,28.99,28.99,medium,low,8,namesilo,,,12/09/2026 11:41
+59733e44-9dd5-403f-b432-dd3cd6f82180,mustard.equipment,available,22.97,22.97,high,low,7,spaceship,,,28/09/2026 06:28
 f145f295-7bcc-41ee-8541-8e2bb422e7d7,welkin.equipment,available,19.99,41.99,medium,low,6,name.com,,,16/08/2026 21:01
 7b01ee70-bdb9-41d0-bb23-4aab5f5cad00,guarneri.equipment,available,28.99,28.99,medium,low,8,namesilo,,,19/09/2026 04:22
 d96a944b-8b00-4bfb-961b-47a2f0b348d6,contiguity.equipment,available,28.99,28.99,medium,low,10,namesilo,,,17/09/2026 08:24
@@ -600,6 +613,7 @@ c48b7b44-8d12-4b0b-9bbb-343decc5bc4b,withdrawal.equipment,available,29.98,32.98,
 84592d54-171a-45f5-8153-5511178f95b1,remington.equipment,available,19.99,,high,low,9,name.com,,,
 6222e9a5-c7ca-488a-bced-eb428f277913,northbound.equipment,available,29.98,32.98,high,low,10,namecheap,,,03/09/2026 21:29
 65650161-46a4-4829-8fac-25a4544620ab,acclaim.equipment,available,28.99,28.99,high,low,7,namesilo,,,16/09/2026 22:32
+c14872c1-3f29-43dc-bd9f-f98a28148525,julien.equipment,available,28.99,28.99,high,low,6,namesilo,,,28/09/2026 03:56
 8e4786e7-dccc-4b69-8627-7ab6f9646654,satanic.equipment,available,28.99,28.99,medium,low,7,namesilo,,,24/09/2026 05:47
 f070fa2c-28ae-4bdf-9544-f2996e27a2a2,ghostlike.equipment,available,19.99,41.99,medium,low,9,name.com,,,06/08/2026 05:23
 e77e9072-f8d7-4b12-8702-1832908da01f,neodymium.equipment,available,28.99,28.99,medium,low,9,namesilo,,,20/09/2026 23:22
@@ -683,6 +697,7 @@ babf7b06-73f8-4ce7-a23c-690f3bc9cb65,honest.equipment,available,19.99,41.99,high
 add95499-c435-4a64-a4bd-fafd5d3c151c,current.equipment,available,19.99,41.99,high,low,7,name.com,,,13/08/2026 11:26
 baa2a823-1ca9-4ff8-bf04-5ed8e61953f6,boring.equipment,available,28.99,28.99,high,low,6,namesilo,,,23/09/2026 00:20
 07e56844-2d56-414e-a8f7-fbef40302d6b,amblyopia.equipment,available,28.99,28.99,medium,low,9,namesilo,,,18/09/2026 17:11
+251fcf35-9c6e-4529-906f-ac47da3ec142,johanna.equipment,available,28.99,28.99,high,low,7,namesilo,,,28/09/2026 03:57
 cfff0be2-6299-4400-a3a7-84f85126812e,kantian.equipment,available,19.99,41.99,medium,low,7,name.com,,,22/08/2026 15:06
 52b5f2e0-7858-4ac6-bcb1-79c62d6cc1a5,phosphorus.equipment,available,28.99,28.99,medium,low,10,namesilo,,,20/09/2026 22:25
 0144a149-92ca-4c37-944d-f295ef62c56a,smoldering.equipment,available,28.99,28.99,medium,low,10,namesilo,,,10/09/2026 12:01
@@ -708,12 +723,14 @@ c7da4482-c8b7-495d-9cba-8b304537eefa,shall.equipment,available,19.99,,high,low,5
 3e2a2647-d8a9-4998-915b-f3a9e585e454,adapid.equipment,available,28.99,28.99,low,low,6,namesilo,,,17/09/2026 06:24
 3ddb22bc-eedc-475e-9376-48cc1286e0c3,multiplication.equipment,available,19.99,,medium,low,14,name.com,,,
 a7935c2f-ea4d-41fe-ad26-fc90ec476b09,brickly.equipment,available,19.99,41.99,medium,low,7,name.com,,,11/08/2026 03:51
+1f954e1c-0a81-42a1-90b1-958b0536d3d8,havre.equipment,available,29.98,32.98,medium,low,5,namecheap,,,28/09/2026 03:56
 c8d0c2a9-9298-4883-b63c-fcfbe1f230ac,curium.equipment,available,28.99,28.99,medium,low,6,namesilo,,,21/09/2026 00:13
 dd654e4e-680b-441b-853b-b6ac5c4a140f,piping.equipment,available,28.99,28.99,medium,low,6,namesilo,,,10/09/2026 19:43
 c33391a7-1bd5-491f-b060-8b9423062390,leap.equipment,available,28.99,28.99,high,medium,4,namesilo,,,23/09/2026 01:39
 e7b8a783-1541-4271-b865-aba82047ff9f,synergetic.equipment,available,28.99,28.99,high,low,10,namesilo,,,11/09/2026 06:25
 3ce9d1ee-b71b-44c4-b536-01d80c8c0821,relocated.equipment,available,28.99,28.99,medium,low,9,namesilo,,,09/09/2026 13:39
 60d736fd-16c9-4057-a132-e03983acaec3,amine.equipment,available,29.98,32.98,high,low,5,namecheap,,,18/09/2026 21:41
+54f2d3f3-2ee9-4970-b793-c5ba9be587cd,mathias.equipment,available,22.97,22.97,high,low,7,spaceship,,,28/09/2026 05:17
 fe2dac9a-3c72-49c9-a221-d48e14f48225,racing.equipment,available,19.99,,high,low,6,name.com,,,
 477b5b7f-020b-49ac-af68-2bcd784b23f6,admiration.equipment,available,19.99,,high,low,10,name.com,,,
 0a7ba793-eb5e-425a-a1a5-166e4f6ce5bf,hillary.equipment,available,28.99,28.99,high,low,7,namesilo,,,27/09/2026 03:48
@@ -739,6 +756,7 @@ fd45a178-8ab1-4bb8-a935-f17d32cbb0b6,repellent.equipment,available,19.99,41.99,m
 5f51854b-87c0-4428-8e4f-14a108abebed,comforted.equipment,available,28.99,28.99,high,low,9,namesilo,,,23/09/2026 15:14
 8617caa9-0a10-4da0-94f8-d2e2b82036bd,being.equipment,available,28.99,28.99,high,low,5,namesilo,,,23/09/2026 04:18
 0c906018-2f4b-48a1-b9c3-0c9967c45d13,baghdad.equipment,available,19.99,,medium,low,7,name.com,,,
+22a03c3b-e08f-46e8-b891-851dea8f896b,igor.equipment,available,22.97,22.97,high,low,4,spaceship,,,28/09/2026 03:33
 4b9baf52-6915-4b4b-bd0e-e323a73c75d6,alinement.equipment,available,28.99,28.99,high,low,9,namesilo,,,18/09/2026 07:48
 8d9dc953-b551-474f-ab87-b1a797d31440,anura.equipment,available,28.99,28.99,medium,low,5,namesilo,,,19/09/2026 15:53
 0434fb88-7111-4ac1-83ee-d1b3e173c6ac,number.equipment,available,28.99,28.99,high,low,6,namesilo,,,25/09/2026 23:29
@@ -812,6 +830,7 @@ fce1dc61-6564-4012-9d19-23c0fac7e615,krubi.equipment,available,28.99,28.99,mediu
 522cd26f-6fbc-43ae-b6cc-f5bd195c9374,uncrowded.equipment,available,28.99,28.99,medium,low,9,namesilo,,,12/09/2026 06:35
 a7bdf093-ccd0-41d5-a097-0d710552fba1,redly.equipment,available,28.99,28.99,medium,low,5,namesilo,,,15/09/2026 22:51
 936a8d70-a994-4f4c-ab84-b429e3427c9e,blacklist.equipment,available,28.99,28.99,high,low,9,namesilo,,,24/09/2026 00:17
+b4522ac3-5af7-4f59-b585-45d83d6c867b,brent.equipment,available,22.2,22.2,high,low,5,cloudflare,,,28/09/2026 05:19
 009f3fef-6ac5-436f-a1b0-0df094230832,addictive.equipment,available,28.99,28.99,high,low,9,namesilo,,,21/09/2026 17:08
 7beaa6ea-fa62-4767-8b46-343d6d46ce6a,awakened.equipment,available,28.99,28.99,high,low,8,namesilo,,,22/09/2026 14:47
 72706d07-bb3b-4e10-bd39-97373fb22752,miguel.equipment,available,29.98,32.98,high,low,6,namecheap,,,25/09/2026 14:22
@@ -926,6 +945,7 @@ facf0fd7-914c-487d-928f-8768d940308d,tons.equipment,available,19.99,,high,low,4,
 be9047b1-30c2-4477-84a3-3e7cf35e0ecd,inshore.equipment,available,19.99,41.99,medium,low,7,name.com,,,22/08/2026 06:53
 21f5938a-7335-41c1-98f3-04ca3e8bc9a4,sufi.equipment,available,28.99,28.99,high,low,4,namesilo,,,11/09/2026 01:14
 d35aaf5f-23cc-4806-a756-ee76042af72a,toast.equipment,available,19.99,,high,low,5,name.com,,,
+6fafaa5e-3e10-46ba-87d4-0adcc0dff363,yogurt.equipment,available,28.99,28.99,high,low,6,namesilo,,,28/09/2026 02:43
 bd010d1b-bb55-41ba-9a4c-b0d7aec489b0,inner.equipment,available,19.99,41.99,high,low,5,name.com,,,22/08/2026 05:54
 7e0aa328-0d72-436f-be8a-ad228eaea482,acrophobia.equipment,available,28.99,28.99,medium,low,10,namesilo,,,17/09/2026 03:53
 800b3a5d-415a-4dae-a765-57cfe1415fd1,pearly.equipment,available,28.99,28.99,high,low,6,namesilo,,,08/09/2026 11:21
@@ -963,7 +983,7 @@ a5effa5c-08ba-4e92-94cd-c57c715792f5,loos.equipment,available,29.98,32.98,medium
 cdca2f09-0802-4718-9493-db9bfcb87a11,aggregator.equipment,available,29.98,32.98,high,low,10,namecheap,,,17/09/2026 17:29
 3f732485-047e-4b92-a9ff-419dbeba49bf,bittie.equipment,available,19.99,41.99,medium,low,6,name.com,,,10/08/2026 07:56
 02a17fe6-7561-4f4b-83d8-d7bef36f04b6,estragon.equipment,available,28.99,28.99,medium,low,8,namesilo,,,20/09/2026 10:19
-6d904ab7-6899-432f-915a-c49d2cd5df40,financial.equipment,resell,,,high,low,9,Dynadot Inc,12/02/2014 19:33,12/02/2027 19:33,26/09/2026 06:05
+6d904ab7-6899-432f-915a-c49d2cd5df40,financial.equipment,resell,,,high,low,9,Dynadot Inc,12/02/2014 19:33,12/02/2027 19:33,28/09/2026 05:01
 b1a61078-ee49-4913-8e35-26a626c287b7,suspension.equipment,available,19.99,,high,low,10,name.com,,,
 6d11c315-9948-4da6-a905-da9dbe1d18ad,vehicle.equipment,available,19.99,,high,low,7,name.com,,,
 6cb9051f-b6cb-4aa9-a6d8-01b7961f5f47,addend.equipment,available,28.99,28.99,medium,low,6,namesilo,,,17/09/2026 06:41
@@ -979,23 +999,3 @@ ce244fed-b1f9-40aa-a41a-b477bf3f8cb1,piddling.equipment,available,19.99,41.99,me
 a711fafc-9bbb-442e-ae16-5ee837593df5,nuprin.equipment,available,28.99,28.99,medium,low,6,namesilo,,,17/09/2026 11:20
 d0f1b4ae-8dac-4060-a486-7b8682c61c66,awakening.equipment,available,19.99,,high,low,9,name.com,,,
 96882464-3408-4783-9a82-357e8339404a,manky.equipment,available,19.99,41.99,medium,low,5,name.com,,,24/08/2026 15:12
-23a9d021-79ba-46bc-9744-3a8598fc0dab,exists.equipment,available,28.99,28.99,medium,low,6,namesilo,,,27/09/2026 02:40
-a0a0ffdd-4cce-4071-9880-5d6d9f6d637f,nassau.equipment,available,19.99,,high,low,6,name.com,,,
-f45d7808-b006-4cd2-8b6a-35f903a0f7ab,connectivity.equipment,available,28.99,28.99,high,low,12,namesilo,,,24/09/2026 02:41
-539cbc26-5d29-4e9e-bffe-44283984941a,continuo.equipment,available,28.99,28.99,medium,low,8,namesilo,,,22/09/2026 12:27
-c94d62d7-0e62-4fb0-9054-11c8520f17e8,disagree.equipment,available,19.99,,high,low,8,name.com,,,
-7b8ac266-5cf7-4f15-ab50-108cb94514c8,amok.equipment,available,19.99,41.99,high,low,4,name.com,,,
-bc5aae0c-d113-44fc-a37e-637ad3fcb8a9,tending.equipment,available,28.99,28.99,high,low,7,namesilo,,,11/09/2026 11:15
-a788634c-7151-40ea-845b-a7a986239862,arms.equipment,available,28.99,28.99,high,low,4,namesilo,,,20/09/2026 07:44
-aa0a0d7c-8e6c-4ad1-94cc-0eff1fc1ae05,relaxing.equipment,available,19.99,41.99,high,low,8,name.com,,,09/09/2026 13:30
-372ab0e3-e97a-4a26-9db8-70ca4e8f8c0e,potbellied.equipment,available,19.99,41.99,medium,low,10,name.com,,,
-4912b7b3-da62-4198-bb72-903021acbb97,aft.equipment,available,19.99,41.99,high,low,3,name.com,,,
-e929060a-9fe5-4c5a-a4cb-405c61708d86,creek.equipment,available,19.99,,high,low,5,name.com,,,
-ae5505b5-7035-4fc9-9cbe-148bf6240eab,assagai.equipment,available,28.99,28.99,medium,low,7,namesilo,,,20/09/2026 15:41
-049ab785-d2e1-473d-91b1-511c3233f76d,stiff.equipment,available,19.99,41.99,medium,low,5,name.com,,,09/08/2026 16:54
-89125962-5bcc-4c4e-b0ab-9c903d11a808,backstitch.equipment,available,29.98,32.98,medium,low,10,namecheap,,,21/09/2026 16:04
-efdf4784-ab77-4053-ac0d-b49b1d3a6c54,outdated.equipment,available,29.98,32.98,medium,low,8,namecheap,,,26/09/2026 03:15
-d715a15d-ce06-46f4-93b1-43283f9bfa16,ablaze.equipment,available,19.99,41.99,high,low,6,name.com,,,
-ef6db94d-6a1c-4f5c-97d7-84f2263ac32e,prone.equipment,available,29.98,32.98,medium,low,5,namecheap,,,27/09/2026 07:37
-1d8b15a1-5f50-459b-b4e6-968a3d28528f,alertly.equipment,available,28.99,28.99,medium,low,7,namesilo,,,13/09/2026 18:40
-001ac694-ded7-4c44-b286-e1972fa5cb35,sisal.equipment,available,19.99,41.99,medium,low,5,name.com,,,17/09/2026 16:39
